@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/uppa-calc/static/css/main.4d75358b.css",
+    "main.js": "/uppa-calc/static/js/main.3170c1fe.js",
+    "index.html": "/uppa-calc/index.html",
+    "main.4d75358b.css.map": "/uppa-calc/static/css/main.4d75358b.css.map",
+    "main.3170c1fe.js.map": "/uppa-calc/static/js/main.3170c1fe.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4d75358b.css",
+    "static/js/main.3170c1fe.js"
+  ]
+}
